@@ -1,12 +1,11 @@
-# Background-Video-Page
+# Simple Calculator Using HTML,CSS
+Project Overview
+Welcome to the Simple Calculator project! In this project, I've built a basic calculator using html and css. This calculator performs fundamental arithmetic operations, including addition, subtraction, multiplication, and division
 
-Project Overview:
-Welcome to the Background Video Page project! In this project, I created a visually engaging webpage with a video playing in the background. The dynamic video backdrop enhances the page's aesthetic and provides an immersive experience for users.
+Features
+Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
+Simple Interface: A straightforward interface for entering numbers and selecting operations.
 
-Features:
-Full-Screen Background Video: A captivating video plays seamlessly in the background, covering the entire page.
-Overlay Content: Text and other elements are displayed over the video for a stylish effect.
-
-Technologies Used:
-HTML: Structuring the webpage and embedding the video.
-CSS: Styling the page, ensuring the video is properly positioned and responsive.
+Technologies Used
+HTML: Structuring the calculator's layout.
+CSS: Styling the calculator for a clean and user-friendly appearance.
